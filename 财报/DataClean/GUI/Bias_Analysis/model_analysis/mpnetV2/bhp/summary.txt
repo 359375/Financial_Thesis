@@ -1,0 +1,3 @@
+=== BHP  Gemini → GPT (mpnetV2) ===
+mean=0.7897, std=0.1273, >0.9=24.7%
+paired t-test vs 1.0  p=3.6394e-50
